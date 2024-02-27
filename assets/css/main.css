@@ -241,8 +241,26 @@ nav#menu #menu-nav li a:hover {
 }
 
 #single-team .team-img img {
-	width: 100%;
+	width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
+
+
+/* Single Contact Page */
+
+#single-contact .contact-img {
+	margin-bottom: 30px;	
+}
+
+#single-contact .contact-img img {
+	width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 
 
 /* ==================================================
@@ -270,7 +288,7 @@ nav#menu #menu-nav li a:hover {
 
 .item-project:hover img,
 .item-project:active img {
-	opacity:.55
+	opacity:.85
 }
 
 /* ==================================================
