@@ -291,6 +291,11 @@ nav#menu #menu-nav li a:hover {
 	opacity:.85
 }
 
+.largeartwork img {
+    max-width: 100%;
+    height: auto;
+}
+
 /* ==================================================
    Footer
 ================================================== */
